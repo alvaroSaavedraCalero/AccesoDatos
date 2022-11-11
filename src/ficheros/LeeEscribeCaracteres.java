@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class LeeCaracteres {
+public class LeeEscribeCaracteres {
 
 	public static void main(String[] args) {
 		
