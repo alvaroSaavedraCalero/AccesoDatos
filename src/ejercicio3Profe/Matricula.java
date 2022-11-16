@@ -232,7 +232,7 @@ public class Matricula {
 			
 				
 				
-			
+		
 			//ejercicio3 soda
 			Query query = db.query();
 			query.constrain(AlumnoModulo.class);
